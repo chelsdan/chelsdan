@@ -1,5 +1,9 @@
-## Hi there 👋
+<img src="GitHub Profile Banner.gif" alt="A banner with animated text depicting Java code. A Dev object with attributes 'Chels' and 'Student' is created, then a greeting method is called. A cursor clicks run and a 'Welcome to my profile!' greeting is displayed.">
 
+- I'm an MSc Software Development conversion student with a background in Social Science.
+- I primarily code in Java but also use Python and JavaScript.
+- My classes include algorithms, computer systems, cyber security, databases, HCI, internet applications, programming, and software engineering.
+- When I'm not coding I'm doing one of the following: video games, puzzles, sudoku, Rubik's cubes, escape rooms.
 <!--
 **chelsdan/chelsdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
